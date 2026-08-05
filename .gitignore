@@ -1,0 +1,44 @@
+# ===========================
+# Java
+# ===========================
+*.class
+*.jar
+*.war
+*.ear
+
+# Java compiled output
+bin/
+
+# Maven
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+.factorypath
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Environment variables
+.env
+.env.*
+
+# Java crash logs
+hs_err_pid*
