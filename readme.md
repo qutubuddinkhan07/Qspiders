@@ -22,4 +22,16 @@ The purpose of this repository is to document my learning journey and maintain a
 
 ---
 
+Basic `MAVEN` commands:
+```
+mvn clean
+mvn compile
+mvn test
+mvn package
+mvn install
+mvn spring-boot:run
+```
+
+---
+
 **Author:** Qutubuddin Khan

@@ -42,3 +42,4 @@ Thumbs.db
 
 # Java crash logs
 hs_err_pid*
+/.metadata/
